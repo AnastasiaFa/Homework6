@@ -1,0 +1,3 @@
+[console_scripts]
+cleanfolder = clean:clean
+

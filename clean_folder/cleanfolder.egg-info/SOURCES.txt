@@ -1,0 +1,7 @@
+setup.py
+clean_folder/__init__.py
+cleanfolder.egg-info/PKG-INFO
+cleanfolder.egg-info/SOURCES.txt
+cleanfolder.egg-info/dependency_links.txt
+cleanfolder.egg-info/entry_points.txt
+cleanfolder.egg-info/top_level.txt
